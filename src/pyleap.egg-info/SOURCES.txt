@@ -1,8 +1,0 @@
-README.md
-setup.cfg
-setup.py
-src/pyleap.py
-src/pyleap.egg-info/PKG-INFO
-src/pyleap.egg-info/SOURCES.txt
-src/pyleap.egg-info/dependency_links.txt
-src/pyleap.egg-info/top_level.txt

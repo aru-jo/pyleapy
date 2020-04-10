@@ -1,5 +1,5 @@
-# pyleap
-pyleap is a python package to determine whether a year is a leap year.
+# pyleapy
+pyleapy is a python package to determine whether a year is a leap year.
   - It works just as you would expect it to. 
   - Handles iterators (list, tuple, str) , floats, and of course - int 
   - Less memory overhead than calendar's isleap function 
@@ -11,31 +11,31 @@ pyleap is a python package to determine whether a year is a leap year.
 
 ### Installation
 
-pyleap requires [Python](https://www.python.org/) 2 or 3 to run.
+pyleapy requires [Python](https://www.python.org/) 2 or 3 to run.
 
-Install pyleap via pip.
+Install pyleapy via pip.
 
 ```sh
-$ pip install pyleap 
+$ pip install pyleapy 
 ```
 
 
 ### Development
 
-Want to contribute? Great! - pyleap does need more functionality. 
+Want to contribute? Great! - pyleapy does need more functionality. 
 Raise an issue!
 
 ### Usage
 Use it to find whether a number(int) is a leap year..or a float - if you're weird enough.  
 ```sh
-import pyleap
-print(pyleap.isleap(2000)
+import pyleapy
+print(pyleapy.isleap(2000))
 ```
 
 You can use it on iterables too! We don't like dicts though. 
 
 ```sh
-print(pyleap.isleap([1900, 1950, 2000])
+print(pyleapy.isleap([1900, 1950, 2000])
 ```
 
 License
