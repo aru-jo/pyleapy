@@ -1,3 +1,5 @@
+README.md
+setup.cfg
 setup.py
 src/pyleap.py
 src/pyleap.egg-info/PKG-INFO
