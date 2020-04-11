@@ -1,4 +1,4 @@
-# A simple yet effective python package to check whether a given year is leap or not
+i# A simple yet effective python package to check whether a given year is leap or not
 # Leap Year Conditions
 # A year x is a leap year if either 1) or 2) is true 
 # 1) if x is divisible by 4 and not divisible by 100. 
@@ -24,6 +24,4 @@ def isleap(obj):
 		else:
 			return False   
 	except TypeError:
-		return calc_leap(obj)     
-		
-		
+		return calc_leap(obj)

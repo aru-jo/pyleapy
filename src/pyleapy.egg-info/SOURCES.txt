@@ -1,6 +1,7 @@
 README.md
 setup.cfg
 setup.py
+src/pyleapy.py
 src/pyleapy.egg-info/PKG-INFO
 src/pyleapy.egg-info/SOURCES.txt
 src/pyleapy.egg-info/dependency_links.txt
